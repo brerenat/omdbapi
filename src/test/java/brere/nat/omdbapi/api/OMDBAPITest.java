@@ -1,6 +1,6 @@
 package brere.nat.omdbapi.api;
 
-import static org.junit.Assert.fail;
+import static org.junit.jupiter.api.Assertions.fail;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
